@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <img alt="/home/ghost/www/b7web/html-css/starbucks/assets/images/starbucks-project.png" [Screenshot] src="/home/ghost/www/b7web/html-css/starbucks/assets/images/starbucks-project.png"><br>
+  <img alt="https://github.com/faablima/starbucks/blob/main/assets/images/starbucks-project.png" [Screenshot] src="https://github.com/faablima/starbucks/blob/main/assets/images/starbucks-project.png"><br>
 starbucks-project
 </p>
 
